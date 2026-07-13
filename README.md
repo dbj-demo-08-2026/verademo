@@ -46,6 +46,7 @@ To build the container run this:
 ```
 docker pull mariadb:10.6.2
 docker build --no-cache -t verademo .
+testing sca scan
 ```
 
 To run the container for local development run this:
